@@ -32,3 +32,14 @@ anchor deploy
 
 Usage
 After deploying the program, you can interact with it using the client script or by integrating it with a front-end application.
+
+Explorer logs:
+
+abi@Joy:~/solana-dapp/sol-token$ anchor deploy
+Deploying workspace: https://api.devnet.solana.com
+Upgrade authority: /home/abi/.config/solana/id.json
+Deploying program "sol-token"...
+Program path: /home/abi/solana-dapp/sol-token/target/deploy/sol_token.so...
+Program Id: 5s6aLJJXiNNXXfdfvmnqTJ8jEWDF2JmiijheK8J6TYvG
+
+![image](https://github.com/user-attachments/assets/7ce64200-2a1e-4a6b-9bf2-a8b6d5edd747)
