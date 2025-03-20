@@ -17,8 +17,8 @@ Follow these instructions to set up and deploy the project.
 
 1. **Clone the repository:**
 
-   git clone https://github.com/balu6914/sol-token.git
-   cd sol-token
+   git clone https://github.com/Benjamin-cup/SOL-TOKEN.git
+   cd SOL-TOKEN
 Install dependencies:
 npm install
 
